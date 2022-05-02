@@ -1,2 +1,2 @@
 # LP-4
-SPPU LP4 Assignments and MiniPROJECTS
+SPPU LP4 Assignments and MiniProjects
